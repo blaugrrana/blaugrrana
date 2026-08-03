@@ -60,5 +60,9 @@
 ---
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/blaugrrana/blaugrrana/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
   <sub>Designed and maintained by sachio</sub>
 </p>
